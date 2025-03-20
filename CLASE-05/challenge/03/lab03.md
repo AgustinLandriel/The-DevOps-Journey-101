@@ -23,4 +23,4 @@ Para superar el desafio deberás entregar en un unico repositorio de github en f
 3. imagen donde se ve la información detallada del Deployment (**imagen3.jpg**).
 4. imagen donde se vea el acceso desde un navegador web a la aplicación usando el `port-forward` (**imagen4.jpg**).
 5. imagen donde se vea los logs del despliegue después del acceso (**imagen5.jpg**).
-
+sasd
